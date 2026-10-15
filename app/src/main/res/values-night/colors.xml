@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primarioLYTO">#E89AA7</color>
+    <color name="acentoLYTO">#E8C46A</color>
+    <color name="fondoLYTO">#15202B</color>
+    <color name="textoLYTO">#F4F6F7</color>
+    <color name="textoBotonLYTO">#15202B</color>
+</resources>

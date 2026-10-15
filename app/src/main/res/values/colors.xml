@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Mi paleta: D = 3 -->
+
+    <color name="primarioLYTO">#7A2E3C</color>
+    <color name="acentoLYTO">#E8C46A</color>
+    <color name="fondoLYTO">#F4F6F7</color>
+    <color name="textoLYTO">#15202B</color>
+    <color name="textoBotonLYTO">#FFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

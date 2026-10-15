@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_nameLYTO">Asistencia LYTO</string>
+
+    <!-- Textos de la interfaz -->
+    <string name="msg_inicialLYTO">Escribe tus datos para registrarte</string>
+    <string name="hint_nombreLYTO">Ingresa tu nombre</string>
+    <string name="hint_matriculaLYTO">Ingresa tu matricula</string>
+    <string name="btn_registrarLYTO">Registrar</string>
+    <string name="btn_registrar_otroLYTO">Registrar otro</string>
+    <string name="btn_limpiarLYTO">Limpiar</string>
+    <string name="btn_tema_oscuroLYTO">Modo oscuro</string>
+    <string name="btn_tema_claroLYTO">Modo claro</string>
+
+    <!-- Mensajes de validacion -->
+    <string name="val_nombre_vacioLYTO">Escribe tu nombre</string>
+    <string name="val_nombre_cortoLYTO">El nombre es demasiado corto</string>
+    <string name="val_matricula_vaciaLYTO">Escribe tu matricula</string>
+    <string name="val_matricula_largoLYTO">La matricula debe tener 7 digitos</string>
+
+    <string name="msg_registradoLYTO">Registrado: %1$s (%2$s)\nAsistente número %3$d</string>
+
+</resources>
